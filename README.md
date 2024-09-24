@@ -47,4 +47,14 @@ python run_deficit.py -m resnet50
 
 ## Citation
 
-If you find this code useful, please kindly cite our paper.
+If you find this code useful, please kindly cite our paper:
+```
+@inproceedings{feng2022rank,
+    title = {{Rank Diminishing in Deep Neural Networks}},
+    author = {Feng, Ruili and Zheng, Kecheng and Huang, Yukun and Zhao, Deli and Jordan, Michael and Zha, Zheng-Jun},
+    booktitle = {Advances in Neural Information Processing Systems},
+    pages = {33054--33065},
+    volume = {35},
+    year = {2022}
+}
+```
